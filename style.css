@@ -1,0 +1,38 @@
+body {background-image: url('pictures/background.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;}
+h1
+{font-size:52px;
+color:#ffffff;
+text-align:center
+}
+h2
+{font-size:30px;
+color:#cf9279;
+text-align:center
+}
+h3
+{font-size:15px;
+color:#e5ba97;
+text-align:center
+}
+p
+{text-align:justify;
+font-size:22px;
+}
+
+select
+{font-size:15px
+}
+button
+{font-size:25px
+}
+input[type=date]
+{font-size:15px;
+color: rgb(37, 35, 35)
+}
+input[type=text]
+{font-size:15px;
+color: rgb(29, 27, 27)
+}
